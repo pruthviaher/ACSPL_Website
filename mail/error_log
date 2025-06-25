@@ -1,0 +1,2 @@
+[20-Nov-2022 00:17:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/acspl/public_html/mail/send.php:28) in /home/acspl/public_html/mail/send.php on line 29
+[22-Sep-2023 09:07:34 UTC] PHP Notice:  Undefined property: stdClass::$options in /tmp/mbdvd0/sess_bc2071c1be6d1c313aeef168beb5ae06files on line 8
